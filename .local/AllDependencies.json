@@ -1714,15 +1714,15 @@
     ]
   },
   "packageFolders": {
-    "D:\\Users\\ke.rui\\.nuget\\packages\\": {}
+    "C:\\Users\\kr\\.nuget\\packages\\": {}
   },
   "project": {
     "restore": {
       "projectUniqueName": "testaaa",
       "projectName": "testaaa",
-      "projectPath": "D:\\Users\\ke.rui\\Documents\\UiPath\\testaaa\\.local",
-      "packagesPath": "D:\\Users\\ke.rui\\.nuget\\packages\\",
-      "outputPath": "D:\\Users\\ke.rui\\Documents\\UiPath\\testaaa\\.local"
+      "projectPath": "C:\\Users\\kr\\code\\RPAGittest\\.local",
+      "packagesPath": "C:\\Users\\kr\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\kr\\code\\RPAGittest\\.local"
     },
     "frameworks": {
       "net461": {
